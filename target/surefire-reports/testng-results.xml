@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84075" started-at="2017-08-31T06:20:35Z" finished-at="2017-08-31T06:21:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84075" started-at="2017-08-31T06:20:35Z" finished-at="2017-08-31T06:21:59Z">
+      <class name="com.test.automation.uiAutomationNew.homePage.TC002_VerifyLoginWithDifferentRecords">
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC002_VerifyLoginWithDifferentRecords@9f70c54]" name="testLogin" duration-ms="10800" started-at="2017-08-30T23:21:17Z" data-provider="loginData" finished-at="2017-08-30T23:21:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[automation]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcs123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC002_VerifyLoginWithDifferentRecords@9f70c54]" name="testLogin" duration-ms="3586" started-at="2017-08-30T23:21:27Z" data-provider="loginData" finished-at="2017-08-30T23:21:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234@gmail]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[madhumita!23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC002_VerifyLoginWithDifferentRecords@9f70c54]" name="testLogin" duration-ms="3534" started-at="2017-08-30T23:21:31Z" data-provider="loginData" finished-at="2017-08-30T23:21:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123#%^@]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC002_VerifyLoginWithDifferentRecords@9f70c54]" name="testLogin" duration-ms="3567" started-at="2017-08-30T23:21:34Z" data-provider="loginData" finished-at="2017-08-30T23:21:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AAAAAAAAAAA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[!!!(())]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC002_VerifyLoginWithDifferentRecords@9f70c54]" name="testLogin" duration-ms="3793" started-at="2017-08-30T23:21:38Z" data-provider="loginData" finished-at="2017-08-30T23:21:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[subhamita 24 @gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mm23567]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC002_VerifyLoginWithDifferentRecords@9f70c54]" name="endTest" is-config="true" duration-ms="2202" started-at="2017-08-30T23:21:42Z" finished-at="2017-08-30T23:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.uiAutomationNew.homePage.TC002_VerifyLoginWithDifferentRecords -->
+      <class name="com.test.automation.uiAutomationNew.homePage.TC003_CreateAnAccount">
+        <test-method status="PASS" signature="createAccount()[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC003_CreateAnAccount@234bef66]" name="createAccount" duration-ms="12715" started-at="2017-08-30T23:21:44Z" finished-at="2017-08-30T23:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+      </class> <!-- com.test.automation.uiAutomationNew.homePage.TC003_CreateAnAccount -->
+      <class name="com.test.automation.uiAutomationNew.homePage.TC001_VerifyLoginWithInvalidCredential">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC001_VerifyLoginWithInvalidCredential@2096442d]" name="setup" is-config="true" duration-ms="13301" started-at="2017-08-30T23:20:35Z" finished-at="2017-08-30T23:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC002_VerifyLoginWithDifferentRecords@9f70c54]" name="setup" is-config="true" duration-ms="11513" started-at="2017-08-30T23:20:48Z" finished-at="2017-08-30T23:20:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC003_CreateAnAccount@234bef66]" name="setup" is-config="true" duration-ms="11313" started-at="2017-08-30T23:20:59Z" finished-at="2017-08-30T23:21:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginInvalidCredential()[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC001_VerifyLoginWithInvalidCredential@2096442d]" name="verifyLoginInvalidCredential" duration-ms="4799" started-at="2017-08-30T23:21:11Z" finished-at="2017-08-30T23:21:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginInvalidCredential -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC001_VerifyLoginWithInvalidCredential@2096442d]" name="endTest" is-config="true" duration-ms="1883" started-at="2017-08-30T23:21:57Z" finished-at="2017-08-30T23:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiAutomationNew.homePage.TC003_CreateAnAccount@234bef66]" name="endTest" is-config="true" duration-ms="0" started-at="2017-08-30T23:21:59Z" finished-at="2017-08-30T23:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.uiAutomationNew.homePage.TC001_VerifyLoginWithInvalidCredential -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
